@@ -1,6 +1,6 @@
 ## Calendar Framework
 
-Build a drag and drop system that implements free/busy blocks over an arbatary spans dated and non dated sheets
+Build a web-based shift roster system that promotes colloboration between managers and staff that publishes dynamic work rosters.
 
 # Technology
 
@@ -34,7 +34,7 @@ Build a drag and drop system that implements free/busy blocks over an arbatary s
 11. Rostered Shift - A shift that is a single entry on the roster allocated to a staff member 
 12. Preference - Is a shift or rostered shift that a staff member can elect to take 
 13. Exclusion - Is a shift or rostered shift that a staff member can elect to not take
-14. Admin - A special type of staff that can manipulate all of the above
+14. Manager - A special type of staff that can manipulate all of the above
 15. Location - Separation delimeter that encumpases all of the above
 16. Organisation - Separation delimiter that encoumpases all of the above
 17. SuperAdmin - A speical type of staff member that can manipulate all the above

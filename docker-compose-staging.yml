@@ -1,0 +1,15 @@
+services:
+  node-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: calendar-app-dev
+    working_dir: /app
+    ports:
+      - "5173:5173"
+      - "3000:3000"
+    command: npm run dev -- --host 0.0.0.0
+    environment:
+      - NODE_ENV=development
+    stdin_open: true
+    tty: true

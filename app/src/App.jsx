@@ -171,7 +171,7 @@ export default function App() {
             }}
             weekends={true}
             headerToolbar={{
-              left: 'prev,next',
+              left: '',
               center: '',
               right: '',
             }}

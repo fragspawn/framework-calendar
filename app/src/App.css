@@ -134,6 +134,9 @@
   min-height: 700px;
 }
 
+.fc-header-toolbar {
+}
+
 .fc {
   min-height: 700px;
   --fc-today-bg-color: transparent;

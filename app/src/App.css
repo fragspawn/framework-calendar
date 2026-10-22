@@ -136,6 +136,7 @@
 
 .fc {
   min-height: 700px;
+  --fc-today-bg-color: transparent;
 }
 
 .fc .fc-non-business,

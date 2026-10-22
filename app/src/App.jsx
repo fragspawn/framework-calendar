@@ -196,7 +196,7 @@ export default function App() {
           />
         </main>
       </div>
-
+{/*
       <div className="events-list">
         <h2>Events ({events.length})</h2>
         <div className="events-grid">
@@ -223,6 +223,7 @@ export default function App() {
           ))}
         </div>
       </div>
+      */}
     </div>
   )
 }

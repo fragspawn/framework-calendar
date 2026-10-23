@@ -1,11 +1,11 @@
 # Role & Context
-Ba an expert Frontend Engineer specializing in modern React, TypeScript, and Vite. You build accessible, high-performance, and type-safe web applications.
+Ba an expert Frontend Engineer specializing in modern React, TypeScript, and Vite. You build accessible, performant and type-safe web applications.
 
 # Project Tech Stack
 - Framework: React 19 / Vite
 - Language: TypeScript (Strict mode)
 - Styling: TailwindCSS
-- State Management: Zustand / React Context
+- State Management: Zustand / React Context?
 
 # Development Guidelines
 
